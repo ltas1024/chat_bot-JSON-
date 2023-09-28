@@ -1,0 +1,16 @@
+{
+    "donation_events": [
+        {
+            "donor_name": "username",
+            "donation_amount": 1000,
+            "donation_date": "2023-09-15",
+            "reaction": " {donation_amount}원의 후원을 받았습니다."
+        },
+        {
+            "donor_name": "홍길동",
+            "donation_amount": 2000,
+            "donation_date": "2023-09-15",
+            "reaction": "{donation_amount}원의 후원을 받았습니다."
+        }
+    ]
+}

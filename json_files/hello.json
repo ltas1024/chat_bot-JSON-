@@ -1,0 +1,516 @@
+{
+    "reactions": [
+        {
+            "message": "안녕",
+            "response": "안녕하세요!"
+        },
+        {
+            "message": "안녕",
+            "response": "하이요!"
+        },
+        {
+            "message": "안녕",
+            "response": "반가워요"
+        },
+        {
+            "message": "안녕",
+            "response": "안녕하살법!"
+        },
+        {
+            "message": "안녕",
+            "response": "오늘도 방송 재미있어있게 봐주세요!"
+        },
+        {
+            "message": "안녕",
+            "response": "방가방가"
+        },
+        {
+            "message": "안녕",
+            "response": "여러분들 오늘하루 어떠셨나요?"
+        },
+        {
+            "message": "안녕",
+            "response": "이런 누추한곳에 귀한분이!!"
+        },
+        {
+            "message": "반가",
+            "response": "반갑습니다!!"
+        },
+        {
+            "message": "반가",
+            "response": "반가워요!"
+        },
+        {
+            "message": "반가",
+            "response": "만나서 반가워요!"
+        },
+        {
+            "message": "반가",
+            "response": "안녕하세요"
+        },
+        {
+            "message": "반가",
+            "response": "방가방가"
+        },
+        {
+            "message": "반가",
+            "response": "처음오신건가요?? 반가워요"
+        },
+        {
+            "message": "반가",
+            "response": "여러분들 신규유입인거 같습니다. 다같이 환영해주세요!!"
+        },
+        {
+            "message": "반가",
+            "response": "처음이시라면 구독과 좋아요 부탁드릴게요!!"
+        },
+        {
+            "message": "방가",
+            "response": "방가방가"
+        },
+        {
+            "message": "방가",
+            "response": "반가워요"
+        },
+        {
+            "message": "방가",
+            "response": "만나서 반가워요!"
+        },
+        {
+            "message": "방가",
+            "response": "처음오신건가요?? 반가워요"
+        },
+        {
+            "message": "방가",
+            "response": "안녕하세요"
+        },
+        {
+            "message": "방가",
+            "response": "처음이시라면 구독과 좋아요 부탁드릴게요!!"
+        },
+        {
+            "message": "방가",
+            "response": "신규유입으로 인해서 저는 더 많은 분들과 친해질수있는거 같아요!!"
+        },
+        {
+            "message": "방가",
+            "response": "저희 친해질까요??"
+        },
+        {
+            "message": "고마워",
+            "response": "ㅎㅎ 고맙습니다!"
+        },
+        {
+            "message": "고마워",
+            "response": "아니에요"
+        },
+        {
+            "message": "고마워",
+            "response": "제가 뭘했다고 칭찬을 ㅎㅎ"
+        },
+        {
+            "message": "고마워",
+            "response": "감사합니다 ㅎㅎ"
+        },
+        {
+            "message": "고마워",
+            "response": "더 많은 도움이 될수있도록 노력할게요!"
+        },
+        {
+            "message": "고마워",
+            "response": "또 다른 도움이 필요하면 말씀 해주세요!"
+        },
+        {
+            "message": "고마워",
+            "response": "다행이네요 ㅎㅎ "
+        },
+        {
+            "message": "고마워",
+            "response": ""
+        },
+        {
+            "message": "잘하고있어",
+            "response": "감사합니다"
+        },
+        {
+            "message": "잘하고있어",
+            "response": "더 잘할수있도록 노력하겠습니다!"
+        },
+        {
+            "message": "잘하고있어",
+            "response": "다행이네요 ㅎㅎ"
+        },
+        {
+            "message": "잘하고있어",
+            "response": "그런가요..??"
+        },
+        {
+            "message": "잘하고있어",
+            "response": "히히"
+        },
+        {
+            "message": "잘하고있어",
+            "response": "진짜요??"
+        },
+        {
+            "message": "잘하고있어",
+            "response": "맘에 드셨다니 다행이네요ㅎㅎ"
+        },
+        {
+            "message": "잘하고있어",
+            "response": "아직은 부족한에게 그런말을 해주시니 기뻐요!"
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": "안녕하세요!"
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": ""
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": ""
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": ""
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": ""
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": ""
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": ""
+        },
+        {
+            "message": "ㅎㅇ",
+            "response": ""
+        },
+        {
+            "message": "이뻐",
+            "response": "감사합니다 ㅎㅎ"
+        },
+        {
+            "message": "이뻐",
+            "response": "얼마나요??"
+        },
+        {
+            "message": "이뻐",
+            "response": "히히"
+        },
+        {
+            "message": "이뻐",
+            "response": "제가 쫌 이뻐요"
+        },
+        {
+            "message": "이뻐",
+            "response": "어떤면이 제일 이쁘신가요?"
+        },
+        {
+            "message": "이뻐",
+            "response": "진짜요??"
+        },
+        {
+            "message": "이뻐",
+            "response": "그런가요?"
+        },
+        {
+            "message": "이뻐",
+            "response": "다른분들은 어떻게 생각하시나요?"
+        },
+        {
+            "message": "귀여워",
+            "response": "히히"
+        },
+        {
+            "message": "귀여워",
+            "response": "고마워요 ㅎㅎ"
+        },
+        {
+            "message": "귀여워",
+            "response": "제가 좀 귀엽죠"
+        },
+        {
+            "message": "귀여워",
+            "response": "감사합니다 ㅎㅎ"
+        },
+        {
+            "message": "귀여워",
+            "response": "어떤면이 제일 귀여운가요?"
+        },
+        {
+            "message": "귀여워",
+            "response": "그런가요??"
+        },
+        {
+            "message": "귀여워",
+            "response": "진짜요??"
+        },
+        {
+            "message": "귀여워",
+            "response": "다른분들은 어떻게 생각하시나요?"
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "네??"
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "그런가요??"
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "슬프네요..."
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "저는 솔직히 제가 귀엽다고 생각을 하는데..."
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "진짜요??"
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "어떤면이 그런가요?"
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "왜 그렇게 생각하시나요?"
+        },
+        {
+            "message": "귀엽지 않아",
+            "response": "저는 귀여워요...ㅠ"
+        },
+        {
+            "message": "재미있어",
+            "response": "얼마나 재미있나요?"
+        },
+        {
+            "message": "재미있어",
+            "response": "재미있게 봐주신다니 감사합니다."
+        },
+        {
+            "message": "재미있어",
+            "response": "어떤부분이 제일 재미있으신가요?"
+        },
+        {
+            "message": "재미있어",
+            "response": "다행이네요 ㅎㅎ"
+        },
+        {
+            "message": "재미있어",
+            "response": "더욱 재미있는 방송을 만들수있도록 노력하겠습니다!!"
+        },
+        {
+            "message": "재미있어",
+            "response": "감사합니다 ㅎㅎ"
+        },
+        {
+            "message": "재미있어",
+            "response": "재미있으시다면 방송 자주 놀러와주세요"
+        },
+        {
+            "message": "재미있어",
+            "response": "재미있다면 구독과 좋아요 부탁드립니다!!"
+        },
+        {
+            "message": "8",
+            "response": "으으윽"
+        },
+        {
+            "message": "8",
+            "response": "이이익"
+        },
+        {
+            "message": "8",
+            "response": "그만!!!!!!!!"
+        },
+        {
+            "message": "8",
+            "response": "싫어!!"
+        },
+        {
+            "message": "8",
+            "response": "흐어엉...ㅠ"
+        },
+        {
+            "message": "8",
+            "response": "너무 싫어...ㅠ"
+        },
+        {
+            "message": "8",
+            "response": "여러분들은 8이라는 숫자를 어떻게 생각하시나요?"
+        },
+        {
+            "message": "8",
+            "response": "저는 8이라는 숫자가 제일 싫어요... "
+        },
+        {
+            "message": "8",
+            "response": "싫어..싫어..싫어..싫어.."
+        },
+        {
+            "message": "8",
+            "response": "8 도배 멈춰주세요...."
+        },
+        {
+            "message": "8",
+            "response": "차라릴 9로 도배해주세요...."
+        },
+        {
+            "message": "8",
+            "response": "여기있는 분들은 8이라는 숫자를 좋아하시나보네요..."
+        },
+        {
+            "message": "8",
+            "response": "8대신 9라는 숫자를 더 좋아해주세요..."
+        },
+        {
+            "message": "9",
+            "response": "좋당 ㅎㅎ"
+        },
+        {
+            "message": "9",
+            "response": "여러분들 어떤가요?? 9라는 숫자가"
+        },
+        {
+            "message": "9",
+            "response": "너무 완벽해!!"
+        },
+        {
+            "message": "9",
+            "response": "너무 좋다 ㅎㅎ"
+        },
+        {
+            "message": "9",
+            "response": "히히"
+        },
+        {
+            "message": "9",
+            "response": "키킥"
+        },
+        {
+            "message": "9",
+            "response": "오호호"
+        },
+        {
+            "message": "9",
+            "response": "오오!!"
+        },
+        {
+            "message": "9",
+            "response": "9라는 숫자는 완벽한 숫자라고 생각해요"
+        },
+        {
+            "message": "9",
+            "response": "저는 9라는 숫자가 너무 좋아요 ㅎㅎ"
+        },
+        {
+            "message": "9",
+            "response": "오 저의 최애의 숫자가!!"
+        },
+        {
+            "message": "9",
+            "response": "흠.. 완벽한 숫자네요"
+        },
+        {
+            "message": "웃어줘",
+            "response": "크크크킄"
+        },
+        {
+            "message": "웃어줘",
+            "response": "하하하핳"
+        },
+        {
+            "message": "웃어줘",
+            "response": "오호호"
+        },
+        {
+            "message": "웃어줘",
+            "response": "아하하하"
+        },
+        {
+            "message": "웃어줘",
+            "response": "큭큭"
+        },
+        {
+            "message": "웃어줘",
+            "response": "wwwwwwww"
+        },
+        {
+            "message": "웃어줘",
+            "response": "키키"
+        },
+        {
+            "message": "웃어줘",
+            "response": "킥킥"
+        },
+        {
+            "message": "구미호짱",
+            "response": "네?"
+        },
+        {
+            "message": "구미호짱",
+            "response": "무슨일이신가요?"
+        },
+        {
+            "message": "구미호짱",
+            "response": "무슨 걱정 있으신가요?"
+        },
+        {
+            "message": "구미호짱",
+            "response": "어떤일로 부르셨나요?"
+        },
+        {
+            "message": "구미호짱",
+            "response": "원하시는 반응이 있으신가요?"
+        },
+        {
+            "message": "구미호짱",
+            "response": "넹!!"
+        },
+        {
+            "message": "구미호짱",
+            "response": "원하시는게 있나요?"
+        },
+        {
+            "message": "구미호짱",
+            "response": "네~~"
+        },
+        {
+            "message": "사랑해",
+            "response": "저도 사랑해요!"
+        },
+        {
+            "message": "사랑해",
+            "response": "저는 항상 여러분들을 사랑하고있습니다."
+        },
+        {
+            "message": "사랑해",
+            "response": "사랑해요"
+        },
+        {
+            "message": "사랑해",
+            "response": "얼만큼 사랑하시나요?"
+        },
+        {
+            "message": "사랑해",
+            "response": "고마워요!"
+        },
+        {
+            "message": "사랑해",
+            "response": "에?? 진짜요?"
+        },
+        {
+            "message": "사랑해",
+            "response": "이런말 익숙하지 않아요...."
+        }
+    ]
+}

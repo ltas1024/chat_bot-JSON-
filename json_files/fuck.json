@@ -1,0 +1,744 @@
+{
+    "reactions": [
+        {
+            "message": "시발",
+            "response": "나쁜말은 안되어요"
+        },
+        {
+            "message": "시발",
+            "response": "욕은 안되옵니다...."
+        },
+        {
+            "message": "시발",
+            "response": "신성한 방송에서 욕설은 안되어요!"
+        },
+        {
+            "message": "시발",
+            "response": "귀한곳에 이런 누추한 말이 나오다니!"
+        },
+        {
+            "message": "시발",
+            "response": "어? 욕설은 방송 밴 사유이옵니다."
+        },
+        {
+            "message": "시발",
+            "response": "신고 할게요!"
+        },
+        {
+            "message": "시발",
+            "response": "어머 이런 심한 욕을...."
+        },
+        {
+            "message": "시발",
+            "response": "뜻은 알고 쓰시는건가요?!"
+        },
+        {
+            "message": "시발",
+            "response": "매니저님 욕설 하신분 밴시켜주세요!"
+        },
+        {
+            "message": "시발",
+            "response": "어머 어떻게 그런 야한말을!"
+        },
+        {
+            "message": "시발",
+            "response": "욕설 채팅을 보신분들께서는 그분 신고좀 부탁드릴게요!"
+        },
+        {
+            "message": "병신",
+            "response": "나쁜말은 안되어요!"
+        },
+        {
+            "message": "병신",
+            "response": "어머 어디가 많이 아프신가요?"
+        },
+        {
+            "message": "병신",
+            "response": "매니저님 신성한채팅에서 욕설이 나왔어요!"
+        },
+        {
+            "message": "병신",
+            "response": "욕은 멈춰주세요...."
+        },
+        {
+            "message": "병신",
+            "response": "채팅을 보고있는 저의 기분이 많이 안좋아지네요.."
+        },
+        {
+            "message": "병신",
+            "response": "그 욕설의 뜻을 알고 계시고 사용하시는거죠?"
+        },
+        {
+            "message": "병신",
+            "response": "저에게 하신말씀이신가요?"
+        },
+        {
+            "message": "병신",
+            "response": "욕설 채팅을 보신분들께서는 그분 신고좀 부탁드릴게요!"
+        },
+        {
+            "message": "병신",
+            "response": "장애인 분들을 혐오발언을 하시는군요..."
+        },
+        {
+            "message": "병신",
+            "response": "어? 욕설은 방송 밴 사유이옵니다."
+        },
+        {
+            "message": "좆",
+            "response": "나쁜말은 안되어요!"
+        },
+        {
+            "message": "좆",
+            "response": "욕설 채팅을 보신분들께서는 그분 신고좀 부탁드릴게요!"
+        },
+        {
+            "message": "좆",
+            "response": "어머 이방송은 전체 이용가 이옵니다"
+        },
+        {
+            "message": "좆",
+            "response": "어머 어떻게 그런 야한말을!"
+        },
+        {
+            "message": "좆",
+            "response": "어? 욕설은 방송 밴 사유이옵니다."
+        },
+        {
+            "message": "좆",
+            "response": "상스러운 방송에서 그런 저급한 말씀은 삼가해주세요"
+        },
+        {
+            "message": "좆",
+            "response": "왜여기서 이런 말씀을 하시는건지...."
+        },
+        {
+            "message": "좆",
+            "response": "매니저님 욕설 하신분 밴시켜주세요!"
+        },
+        {
+            "message": "좆",
+            "response": "이런 채팅은 저에게 상처만 주는것 같아요..."
+        },
+        {
+            "message": "좆까",
+            "response": "나쁜말은 안되어요!"
+        },
+        {
+            "message": "좆까",
+            "response": "뭘 까요?"
+        },
+        {
+            "message": "좆까",
+            "response": "남성분들에게 수치심을 들게 할만한 말씀이네요...."
+        },
+        {
+            "message": "좆까",
+            "response": "매니저님 욕설 하신분 밴시켜주세요!"
+        },
+        {
+            "message": "좆까",
+            "response": "왜여기서 이런 말씀을 하시는건지...."
+        },
+        {
+            "message": "좆까",
+            "response": "욕설 채팅을 보신분들께서는 그분 신고좀 부탁드릴게요!"
+        },
+        {
+            "message": "좆까",
+            "response": "뜻은 알고 쓰시는건가요?!"
+        },
+        {
+            "message": "좆까",
+            "response": "욕은 멈춰주세요...."
+        },
+        {
+            "message": "조까",
+            "response": "나쁜말은 안되어요!"
+        },
+        {
+            "message": "조까",
+            "response": "욕은 멈춰주세요...."
+        },
+        {
+            "message": "조까",
+            "response": "어떤 뜻으로 사용하신건가요??"
+        },
+        {
+            "message": "조까",
+            "response": "여기서는 욕하지 말아주세요..."
+        },
+        {
+            "message": "조까",
+            "response": "헉... 어린친구들이 듣고 배우면 어떻게 할려고하세요!!"
+        },
+        {
+            "message": "조까",
+            "response": "안돼요...."
+        },
+        {
+            "message": "조까",
+            "response": "뭘 까요?"
+        },
+        {
+            "message": "조까",
+            "response": "상스러운 방송에서 그런 저급한 말씀은 삼가해주세요"
+        },
+        {
+            "message": "tlqkf",
+            "response": "여기서 욕설은 하지 말아주세요..."
+        },
+        {
+            "message": "tlqkf",
+            "response": "영어로 치신다고해서 괜찮아 지는거는 아닙니다 ㅎㅎ...."
+        },
+        {
+            "message": "tlqkf",
+            "response": "이렇게 써도 욕이 될수있군요"
+        },
+        {
+            "message": "tlqkf",
+            "response": "욕은 멈춰주세요...."
+        },
+        {
+            "message": "tlqkf",
+            "response": "어떠한 감정의 욕인가요??"
+        },
+        {
+            "message": "tlqkf",
+            "response": "이러한 말은 채팅이 아닌 마음속에서만 해주세요."
+        },
+        {
+            "message": "tlqkf",
+            "response": "오늘도 깨끗한 채팅 만들기는 실패네요..."
+        },
+        {
+            "message": "tlqkf",
+            "response": "귀한곳에 이런 누추한 말이 나오다니!"
+        },
+        {
+            "message": "fuck",
+            "response": "귀한곳에 이런 누추한 말이 나오다니!"
+        },
+        {
+            "message": "fuck",
+            "response": "영어로 치신다고해서 괜찮아 지는거는 아닙니다 ㅎㅎ...."
+        },
+        {
+            "message": "fuck",
+            "response": "욕은 멈춰주세요...."
+        },
+        {
+            "message": "fuck",
+            "response": "어떠한 뜻이든 욕설이면 그건 안되는거에요...."
+        },
+        {
+            "message": "fuck",
+            "response": "오늘도 어린친구들은 안좋은걸 봐버렸군요...."
+        },
+        {
+            "message": "fuck",
+            "response": "매니저님 신성한채팅에서 욕설이 나왔어요!"
+        },
+        {
+            "message": "fuck",
+            "response": "매니저님 욕설 하신분 밴시켜주세요!"
+        },
+        {
+            "message": "fuck",
+            "response": "어떠한 감정의 욕인가요??"
+        },
+        {
+            "message": "개새끼",
+            "response": "강아지를 찾으시는건가요??"
+        },
+        {
+            "message": "개새끼",
+            "response": "매니저님 욕설 하신분 밴시켜주세요!"
+        },
+        {
+            "message": "개새끼",
+            "response": "오늘도 이런 안좋은 채팅이 나와버렸네요..."
+        },
+        {
+            "message": "개새끼",
+            "response": "올바른 말만 사용해주세요"
+        },
+        {
+            "message": "개새끼",
+            "response": "어떠한 뜻이든 욕설이면 그건 안되는거에요...."
+        },
+        {
+            "message": "개새끼",
+            "response": "나쁜말은 안되요..."
+        },
+        {
+            "message": "개새끼",
+            "response": "누구에게 하시는 말씀이신지??"
+        },
+        {
+            "message": "개새끼",
+            "response": "매니저님 욕설 하신분 밴시켜주세요!"
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "썅",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "닥쳐",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "꺼져",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "지랄",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "존나",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "염병",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "간나",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "니미",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "느금마",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "개소리",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "씹창",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "김치녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "된장녀",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "메갈",
+            "response": ""
+        },
+        {
+            "message": "애미",
+            "response": ""
+        }
+    ]
+}
