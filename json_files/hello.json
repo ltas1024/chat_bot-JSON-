@@ -18,7 +18,7 @@
         },
         {
             "message": "안녕",
-            "response": "오늘도 방송 재미있어있게 봐주세요!"
+            "response": "오늘도 방송 재미있게 봐주세요!"
         },
         {
             "message": "안녕",
@@ -126,7 +126,7 @@
         },
         {
             "message": "고마워",
-            "response": ""
+            "response": "다음에 가능하면 또 도움을 드릴게요!!"
         },
         {
             "message": "잘하고있어",
@@ -166,31 +166,31 @@
         },
         {
             "message": "ㅎㅇ",
-            "response": ""
+            "response": "반갑습니다!!"
         },
         {
             "message": "ㅎㅇ",
-            "response": ""
+            "response": "오늘하루 어떠셨나요?"
         },
         {
             "message": "ㅎㅇ",
-            "response": ""
+            "response": "처음이신가요??"
         },
         {
             "message": "ㅎㅇ",
-            "response": ""
+            "response": "하이요!"
         },
         {
             "message": "ㅎㅇ",
-            "response": ""
+            "response": "오늘도 방송 재미있게 봐주세요!"
         },
         {
             "message": "ㅎㅇ",
-            "response": ""
+            "response": "만나서 반가워요!"
         },
         {
             "message": "ㅎㅇ",
-            "response": ""
+            "response": "만나서 반가워요!"
         },
         {
             "message": "이뻐",
