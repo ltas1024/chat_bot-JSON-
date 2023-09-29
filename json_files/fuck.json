@@ -282,463 +282,299 @@
         },
         {
             "message": "썅",
-            "response": ""
+            "response": "무슨뜻의 욕인가요?"
         },
         {
             "message": "썅",
-            "response": ""
+            "response": " 어떤감정의 욕인가요? "
         },
         {
             "message": "썅",
-            "response": ""
+            "response": "저의 퀄리티가 그만큼 떨어진다는건가요??"
         },
         {
             "message": "썅",
-            "response": ""
+            "response": "욕설은 멈춰주세요...."
         },
         {
             "message": "썅",
-            "response": ""
+            "response": "안돼요..."
         },
         {
             "message": "썅",
-            "response": ""
+            "response": "저희방송에서 이런말이 나오니 슬프네요..."
         },
         {
             "message": "썅",
-            "response": ""
+            "response": "귀한곳에 이런 누추한 말이 나오다니!"
         },
         {
             "message": "썅",
-            "response": ""
+            "response": "어떤뜻이든 그게 욕설이라면 그건 안되는거에요...."
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "에?? 무슨 말씀이신가요??"
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "제가 그렇게 시끄러운가요?"
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "싫어요!!"
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "귀한곳에 이런 누추한 말이......"
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "어떤 뜻으로 사용하신건가요??"
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "너무 많은 욕을 하시는거 같아요...."
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "오늘도 어린친구들은 안좋은걸 봐버렸군요...."
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "헉... 어린친구들이 듣고 배우면 어떻게 할려고하세요!!"
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "안돼요..."
         },
         {
             "message": "닥쳐",
-            "response": ""
+            "response": "저희방송에서 이런말이 나오니 슬프네요..."
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "제가 어디로 가야될까요??"
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "무슨 뜻의 욕설인가요??"
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "나쁜말은 안되요..."
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "어디로요??"
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "저보다는 당신이 먼저 가게 될꺼 같은데요??"
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "비록 약한 욕이지만 저에게는 상처네요..."
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "싫어요!!"
         },
         {
             "message": "꺼져",
-            "response": ""
+            "response": "어떠한 뜻이든 욕설이면 그건 안되는거에요...."
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "나쁜말은 안되어요!"
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "순화된 말을 쓰시는거는 어떠신가요?"
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "어떤 뜻으로 사용하신건가요??"
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "어디서 난리가 났나요?"
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "저희방송에서 이런말이 나오니 슬프네요..."
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "안되요..."
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "왜여기서 이런 말씀을 하시는건지...."
         },
         {
             "message": "지랄",
-            "response": ""
+            "response": "여기서 욕설은 하지 말아주세요..."
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "순화된 말을 쓰시는거는 어떠신가요?"
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "뭔가 흥분되는 일이 있으신가요??"
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "무슨뜻의 욕인가요??"
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "나쁜말은 안돼요...."
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "뜻은 알고 쓰시는건가요?!"
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "세상에는 신기한 욕들이 많네요...."
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "여기서 욕설은 하지 말아주세요..."
         },
         {
             "message": "존나",
-            "response": ""
+            "response": "저희방송에서 이런말이 나오니 슬프네요..."
         },
         {
             "message": "염병",
-            "response": ""
+            "response": "무슨뜻의 욕인가요?"
         },
         {
             "message": "염병",
-            "response": ""
+            "response": "어디 전염병이 돌고있나요"
         },
         {
             "message": "염병",
-            "response": ""
+            "response": "뜻은 알고 쓰시는건가요?!"
         },
         {
             "message": "염병",
-            "response": ""
+            "response": "세상에는 신기한 욕들이 많네요...."
         },
         {
             "message": "염병",
-            "response": ""
+            "response": "욕설 채팅을 보신분들께서는 그분 신고좀 부탁드릴게요!"
         },
         {
             "message": "염병",
-            "response": ""
+            "response": "여기서 욕설은 하지 말아주세요..."
         },
         {
             "message": "염병",
-            "response": ""
+            "response": "매니저님 신성한채팅에서 욕설이 나왔어요!"
         },
         {
             "message": "염병",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
-        },
-        {
-            "message": "간나",
-            "response": ""
+            "response": "나쁜말은 안되어요!"
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "패드립은 안돼요...."
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "어떤분의 어머니를 찾고 계신가요??"
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "무슨뜻의 욕인가요?"
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "신성한속에 이런 불순한 말이.... "
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "욕은 안되옵니다...."
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "귀한곳에 이런 누추한 말이 나오다니!"
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "어떠한 뜻이든 욕설이면 그건 안되는거에요...."
         },
         {
             "message": "니미",
-            "response": ""
+            "response": "안돼요..."
         },
         {
             "message": "느금마",
-            "response": ""
+            "response": "패드립은 안돼요...."
         },
         {
             "message": "느금마",
-            "response": ""
+            "response": "무슨뜻의 욕인가요?"
         },
         {
             "message": "느금마",
-            "response": ""
+            "response": "뜻은 알고 쓰시는건가요?!"
         },
         {
             "message": "느금마",
-            "response": ""
+            "response": "패드립에는 종류도 많네요....."
         },
         {
             "message": "느금마",
-            "response": ""
+            "response": "나쁜말은 안돼요...."
         },
         {
             "message": "느금마",
-            "response": ""
+            "response": "귀한곳에 이런 누추한 말이......"
         },
         {
             "message": "느금마",
-            "response": ""
+            "response": "올바른 말만 사용해주세요"
         },
         {
             "message": "느금마",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
-        },
-        {
-            "message": "개소리",
-            "response": ""
+            "response": "헉... 어린친구들이 듣고 배우면 어떻게 할려고하세요!!"
         },
         {
             "message": "씹창",
-            "response": ""
+            "response": "무슨뜻의 욕인가요?"
         },
         {
             "message": "씹창",
-            "response": ""
+            "response": "뭔가 망가진게 있나요??"
         },
         {
             "message": "씹창",
-            "response": ""
+            "response": "그 욕설의 뜻을 알고 계시고 사용하시는거죠?"
         },
         {
             "message": "씹창",
-            "response": ""
+            "response": "어? 욕설은 방송 밴 사유이옵니다."
         },
         {
             "message": "씹창",
-            "response": ""
+            "response": "욕은 멈춰주세요...."
         },
         {
             "message": "씹창",
-            "response": ""
+            "response": "안돼요..."
         },
         {
             "message": "씹창",
-            "response": ""
+            "response": "어떠한 뜻이든 욕설이면 그건 안되는거에요...."
         },
         {
             "message": "씹창",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "김치녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "된장녀",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "메갈",
-            "response": ""
-        },
-        {
-            "message": "애미",
-            "response": ""
+            "response": "욕은 싫어요...."
         }
     ]
 }
