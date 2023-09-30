@@ -94,19 +94,19 @@
             "donor_name": "username",
             "donation_amount": 2000,
             "donation_date": "2023-09-15",
+            "reaction": "{donation_amount}원 가지고 편의점 가시면 맛있는거 사먹을수있을텐데...."
+        },
+        {
+            "donor_name": "username",
+            "donation_amount": 2000,
+            "donation_date": "2023-09-15",
+            "reaction": "밥은 드셨나요? 저보다 username님 먼저챙기세요!!"
+        },
+        {
+            "donor_name": "username",
+            "donation_amount": 2000,
+            "donation_date": "2023-09-15",
             "reaction": ""
-        },
-        {
-            "donor_name": "username",
-            "donation_amount": 2000,
-            "donation_date": "2023-09-15",
-            "reaction": " "
-        },
-        {
-            "donor_name": "username",
-            "donation_amount": 2000,
-            "donation_date": "2023-09-15",
-            "reaction": " "
         },
         {
             "donor_name": "username",
