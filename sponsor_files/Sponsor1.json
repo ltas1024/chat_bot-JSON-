@@ -22,7 +22,7 @@
             "donor_name": "username",
             "donation_amount": 1000,
             "donation_date": "2023-09-15",
-            "reaction": "오!!!!!!!!! 머야!!!"
+            "reaction": "오!!!!!!!!! 뭐에요??!"
         },
         {
             "donor_name": "username",
@@ -34,7 +34,7 @@
             "donor_name": "username",
             "donation_amount": 1000,
             "donation_date": "2023-09-15",
-            "reaction": "너무 고마워!"
+            "reaction": "너무 고마워요!"
         },
         {
             "donor_name": "username",
@@ -46,7 +46,7 @@
             "donor_name": "username",
             "donation_amount": 1000,
             "donation_date": "2023-09-15",
-            "reaction": "행복해!"
+            "reaction": "행복해요!"
         },
         {
             "donor_name": "username",
@@ -62,33 +62,39 @@
         },
         {
             "donor_name": "username",
-            "donation_amount": 2000,
+            "donation_amount": 1000,
             "donation_date": "2023-09-15",
-            "reaction": " "
+            "reaction": "username님의 귀중한 돈 감사합니다"
         },
         {
             "donor_name": "username",
             "donation_amount": 2000,
             "donation_date": "2023-09-15",
-            "reaction": " "
+            "reaction": "소중한 {donation_amount}원 감사합니다"
         },
         {
             "donor_name": "username",
             "donation_amount": 2000,
             "donation_date": "2023-09-15",
-            "reaction": " "
+            "reaction": "귀중한 {donation_amount}원 고맙습니다!"
         },
         {
             "donor_name": "username",
             "donation_amount": 2000,
             "donation_date": "2023-09-15",
-            "reaction": " "
+            "reaction": "{donation_amount}원 감사합니다"
         },
         {
             "donor_name": "username",
             "donation_amount": 2000,
             "donation_date": "2023-09-15",
-            "reaction": " "
+            "reaction": "{donation_amount}원 고맙습니다."
+        },
+        {
+            "donor_name": "username",
+            "donation_amount": 2000,
+            "donation_date": "2023-09-15",
+            "reaction": ""
         },
         {
             "donor_name": "username",
